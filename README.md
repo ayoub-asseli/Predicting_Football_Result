@@ -1,4 +1,6 @@
-# Predicting_Football_Result
+# Booking Soccer
+
+![Screenshot](BookingSoccer.jpg)
 
 <h3> Overview and Motivation </h3>
 
@@ -8,3 +10,4 @@
   <li> Motivation : Using AI to predict who will win of football games </li>
  <li>  WE LIKE TO WIN OUR BETS !! </li>
 </ul>
+
