@@ -1,7 +1,9 @@
 # Booking Soccer
 
-<img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/BookingSoccer.jpg" width="200" height="200" />
-
+<p align="center">
+  <img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/BookingSoccer.jpg" width="200" height="200" />
+</p>
+  
 <h3> Overview and Motivation </h3>
 
 <ul>
@@ -33,7 +35,9 @@
 
 <h3> Project organisation </h3>
 
-<img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/project_organization.png" width="500" height="200" />
+<p align="center">
+  <img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/project_organization.png" width="500" height="200" />
+</p>
 
 <p> This notebook provide a quite simple but efficient way to build a model to predict football game result. </p>
 
