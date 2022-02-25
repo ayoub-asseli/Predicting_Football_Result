@@ -1,6 +1,6 @@
 # Booking Soccer
 
-![Screenshot](BookingSoccer.jpg)
+![Screenshot](BookingSoccer.jpg) 
 
 <h3> Overview and Motivation </h3>
 
