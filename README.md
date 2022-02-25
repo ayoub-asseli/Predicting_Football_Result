@@ -1,9 +1,5 @@
 # Booking Soccer
 
-<p align="center">
-  <img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/BookingSoccer.jpg" width="200" height="200" />
-</p>
-  
 <h3> Overview and Motivation </h3>
 
 <ul>
