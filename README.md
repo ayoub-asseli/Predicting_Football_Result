@@ -32,10 +32,10 @@
 <h3> Project organisation </h3>
 
 <p align="center">
-  <img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/project_organization.png" width="500" height="200" />
+  <img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/project_organization.png" width="700" height="300" />
 </p>
 
-<p> This notebook provide a quite simple but efficient way to build a model to predict football game result. </p>
+<p> This notebook provides a quite simple but efficient way to build a model to predict football games results. </p>
 
 <p> Thanks for reading :) </p>
 
