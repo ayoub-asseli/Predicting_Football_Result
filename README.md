@@ -33,5 +33,9 @@
 
 <h3> Project organisation </h3>
 
+<img src="https://github.com/ayoub-asseli/Predicting_Football_Result/blob/main/Ressources/project_organization.png" width="900" height="400" />
 
+<p> This notebook provide a quite simple but efficient way to build a model to predict football game result. </p>
+
+<p> Thanks for reading :) </p>
 
