@@ -25,7 +25,7 @@
 <ul>
   <li> Through artificial intelligence we want to help bettors win more money </li>
   <li> We will be able to help teams analyze the consequences of certain events that may penalize them </li>
-  <li> <strong> Prediction is not 100% reliable: we speak of a trend </strong> </li>
+  <li> <strong> /!\ Prediction is not 100% reliable: we speak of a trend /!\ </strong> </li>
 </ul>
 
 <h3> Project organisation </h3>
