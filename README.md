@@ -10,7 +10,7 @@
 
 <h3> What is Booking Soccer ? </h3>
 
-<p> Our solution allows to predict the outcome of a football match of 5 leagues : </p>
+<p> Our solution allows to "predict" the outcome of a football match of 5 leagues : </p>
 
 <ul>
   <li> Ligue 1 </li>
